@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chirag</h1>
-<h3 align="center">Common Software Engineer</h3>
+<h3 align="center">Software/ML Engineer</h3>
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning **Cyber Security** 
 
 - 📫 How to reach me **chiraggowdadu004@gmail.com**
 
